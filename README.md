@@ -1,4 +1,4 @@
-# RottenTomatoes Box Office Demo
+# Instagram Client
 
 This is an Android demo application for displaying the mot popular instagram photos using the [Instagram API](https://www.instagram.com/developer/deprecated/endpoints/media/#get_media_popular).
 
