@@ -2,7 +2,7 @@
 
 Instagram Client is an android app that allows a user to check out popular photos from Instagram. The app utilizes Instagram API to display images and basic image information to the user.
 
-Time spent: 3 hours spent in total
+Time spent: 4.5 hours spent in total
 
 ## User Stories
 
